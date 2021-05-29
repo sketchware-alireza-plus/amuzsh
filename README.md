@@ -1,3 +1,3 @@
 {
-  "فیلم": "https://as9.cdn.asset.aparat.com/aparat-video/08bac003598829309307bf9c7cd5e70533337963-1080p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY5MWRmMzg5ZjcwZTU1YjIwNDZiNWY1OTM0Zjg3ZmU5IiwiZXhwIjoxNjIyMjg5NjY0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.JR3xTi7eNpL8Wtc68Lo5Fos3Wu0CYNMoQ9y7aXZOGgs"
+  "پیغام": "به برنامه خوش آمدید "
 }
